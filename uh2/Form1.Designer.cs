@@ -65,14 +65,14 @@
             btnSave.TabIndex = 2;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = true;
-            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            btnSave.Click += btnSave_Click;
             // 
             // listMoods
             // 
             listMoods.FormattingEnabled = true;
             listMoods.Location = new Point(756, 201);
             listMoods.Name = "listMoods";
-            listMoods.Size = new Size(315, 264);
+            listMoods.Size = new Size(315, 104);
             listMoods.TabIndex = 3;
             // 
             // lblDate

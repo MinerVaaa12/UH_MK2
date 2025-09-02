@@ -6,13 +6,13 @@ namespace uh2
         {
             InitializeComponent();
 
-            // Isi ComboBox
+         
             comboMood.Items.AddRange(new string[] { "Happy", "Sad", "Angry", "Excited", "Tired" });
 
-            // Set default pilihan biar tidak null
+       
             comboMood.SelectedIndex = 0;
 
-            // Tampilkan tanggal hari ini
+           
             lblDate.Text = DateTime.Now.ToString("dddd, dd MMMM yyyy");
         }
 
@@ -29,6 +29,8 @@ namespace uh2
             {
                 MessageBox.Show("Pilih mood terlebih dahulu!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
+
+            System.IO.File.AppendAllText("mood.txt", $"{date} - {mood}{Environment.NewLine}");
         }
 
         private void label1_Click(object sender, EventArgs e)
