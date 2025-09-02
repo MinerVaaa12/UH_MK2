@@ -1,0 +1,16 @@
+E:\BACKUP\uh2\uh2\bin\Debug\net8.0-windows\uh2.exe
+E:\BACKUP\uh2\uh2\bin\Debug\net8.0-windows\uh2.deps.json
+E:\BACKUP\uh2\uh2\bin\Debug\net8.0-windows\uh2.runtimeconfig.json
+E:\BACKUP\uh2\uh2\bin\Debug\net8.0-windows\uh2.dll
+E:\BACKUP\uh2\uh2\bin\Debug\net8.0-windows\uh2.pdb
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.Form1.resources
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.csproj.GenerateResource.cache
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.GeneratedMSBuildEditorConfig.editorconfig
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.AssemblyInfoInputs.cache
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.AssemblyInfo.cs
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.csproj.CoreCompileInputs.cache
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.dll
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\refint\uh2.dll
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.pdb
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\uh2.genruntimeconfig.cache
+E:\BACKUP\uh2\uh2\obj\Debug\net8.0-windows\ref\uh2.dll
